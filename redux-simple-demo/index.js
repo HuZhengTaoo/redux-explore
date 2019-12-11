@@ -16,7 +16,7 @@ function buyIceCream(){
   return {
     type : BUY_ICE_CREAM,
     info : 'ice cream'
-  }
+  } 
 }
 //reducers
 // (previousState,action) => newState
