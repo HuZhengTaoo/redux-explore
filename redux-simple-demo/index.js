@@ -3,7 +3,7 @@ const reduxLogger = require('redux-logger')
 
 const logger = reduxLogger.createLogger()
 //constants
-const BUY_CAKE = 'BUY_CAKE' 
+const BUY_CAKE = 'BUY_CAKE'  
 const BUY_ICE_CREAM = 'BUY_ICE_CREAM'
 //actions
 function buyCake(){
