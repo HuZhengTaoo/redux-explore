@@ -1,0 +1,3 @@
+- Context provides a way to pass data through the complete tree
+- eg 
+- AppComponent --> c --> e ---> f
